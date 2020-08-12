@@ -19,3 +19,7 @@ NTP Server Attributes
 ***1** - Google NTP Server (time.google.com) OR the Router IP Address
 
 ***2** - NTP Pool Server (pool.ntp.org) OR the DNS IP Address
+
+## What is NTP?
+
+National Time Protocol (NTP) is an internationally recognized time protocol used to keep systems chronologically in sync. Google maintains NTP servers (time.google.com) as does ntp.org (pool.ntp.org). Some of the free-to-use servers do go down from time-to-time.
