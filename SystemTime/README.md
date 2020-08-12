@@ -17,4 +17,5 @@ NTP Server Attributes
 2) DDoS Protector ( Disable ^ )
 
 ***1** - Google NTP Server (time.google.com) OR the Router IP Address
+
 ***2** - NTP Pool Server (pool.ntp.org) OR the DNS IP Address
