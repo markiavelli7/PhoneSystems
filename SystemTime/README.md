@@ -22,4 +22,4 @@ NTP Server Attributes
 
 ## What is NTP?
 
-National Time Protocol (NTP) is an internationally recognized time protocol used to keep systems chronologically in sync. Google maintains NTP servers (time.google.com) as does ntp.org (pool.ntp.org). Some of the free-to-use servers do go down from time-to-time.
+National Time Protocol (NTP) is an internationally recognized time protocol used to keep systems chronologically in sync. Google maintains NTP servers (time.google.com) as does ntp.org (pool.ntp.org). Some of the free-to-use servers do go down from time-to-time. 
